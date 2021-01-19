@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ClientTabService } from 'src/app/tab-services/client-tab.service';
+import { ClientTabService } from '../../tab-services/client-tab.service';
 
 @Component({
   selector: 'app-client-tab',

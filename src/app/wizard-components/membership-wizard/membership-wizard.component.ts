@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ClientTabService } from 'src/app/tab-services/client-tab.service';
-import { MembershipPlanTabService } from 'src/app/tab-services/membership-plan-tab.service';
-import { MembershipWizardService } from 'src/app/wizard-services/membership-wizard.service';
+import { ClientTabService } from '../../tab-services/client-tab.service';
+import { MembershipPlanTabService } from '../../tab-services/membership-plan-tab.service';
+import { MembershipWizardService } from '../../wizard-services/membership-wizard.service';
 
 @Component({
   selector: 'app-membership-wizard',

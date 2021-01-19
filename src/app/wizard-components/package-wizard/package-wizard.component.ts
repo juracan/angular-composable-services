@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ClientTabService } from 'src/app/tab-services/client-tab.service';
-import { PackagePlanTabService } from 'src/app/tab-services/package-plan-tab.service';
-import { PackageWizardService } from 'src/app/wizard-services/package-wizard.service';
+import { ClientTabService } from '../../tab-services/client-tab.service';
+import { PackagePlanTabService } from '../../tab-services/package-plan-tab.service';
+import { PackageWizardService } from '../../wizard-services/package-wizard.service';
 
 @Component({
   selector: 'app-package-wizard',

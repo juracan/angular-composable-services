@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { MembershipPlanTabService } from 'src/app/tab-services/membership-plan-tab.service';
+import { MembershipPlanTabService } from '../../tab-services/membership-plan-tab.service';
 
 @Component({
   selector: 'app-membership-plan-tab',

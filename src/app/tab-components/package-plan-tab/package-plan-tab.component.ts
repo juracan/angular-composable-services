@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { PackagePlanTabService } from 'src/app/tab-services/package-plan-tab.service';
+import { PackagePlanTabService } from '../../tab-services/package-plan-tab.service';
 
 @Component({
   selector: 'app-package-plan-tab',
